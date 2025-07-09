@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋
-I'm Shravan Vibhas, a Data Science student with a passion for uncovering insights from data and building innovative solutions. I have a strong foundation in computer science and data processing, with hands-on experience in data analysis, machine learning, and data visualization. 
+I'm Shravan Vibhas, a Data Science student with a passion for uncovering insights from data and building innovative solutions. I have a strong foundation in data science and data processing, with hands-on experience in data analysis, machine learning, and data visualization. 
 
 
 
